@@ -7,4 +7,4 @@ import '@/assets/style/style.scss';
 
 $(document).ready(() => {
     console.log('project is ready');
-})
+});
